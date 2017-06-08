@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/mobile/.android/build-cache/d07811c6047bda113893d81bbe625db9be652c46/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="379d1834afa3c08f43be23a23b103053537b65b5">
+        <dex dex="/Users/mobile/Desktop/kuaiche_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_da7410ab8cd40227c8f665086cfb6f9d1feddfda/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobile/.android/build-cache/c1ed5541baf06eb59e6d52530895a24a6f2ea115/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="184428c29b2a4b220cd44284d515db5d8cb5fc76">
+        <dex dex="/Users/mobile/Desktop/kuaiche_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_65d0f9cb2aa58e51b2d486ad53c32f9161af9b80/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobile/.android/build-cache/bc0f34b429e1ad478ebab99401f5842d08d56282/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a819aae4f0c711e50b4fd633922a3c1a176cb51e">
+        <dex dex="/Users/mobile/Desktop/kuaiche_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_38cfa44bd5846806cb4c242a038e7b015a028bc0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobile/.android/build-cache/ea43366359a3875552d3d6ae5a22215a9e82326e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ef5c5c2afbd174d55cf1cfcac7d0346cbc4c1322">
+        <dex dex="/Users/mobile/Desktop/kuaiche_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_afac8ce34d1c3e9d292de8da61b2cfbf868cf8e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobile/.android/build-cache/de024309ab827e14b39573d7535755726205c085/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="69472e334350cafbf442776da05c9a04955252fb">
+        <dex dex="/Users/mobile/Desktop/kuaiche_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_87973965606d3be38240d0e630a21224e444c1c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobile/.android/build-cache/bb6698c90c2e6fa02c6c55e9ecb138ebefd36ac9/output/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/mobile/Desktop/kuaiche_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_f8e38b07c5ab6ecbd834c89eae456aca04f12710/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobile/.android/build-cache/628d216e5f48c0e1090ca5a3b0406662ab264b04/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5289e799a43a64c4137d109bf992e10a2f952aa3">
+        <dex dex="/Users/mobile/Desktop/kuaiche_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_867e3fb324dad981529b2299475d5ec30a5f3aff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobile/.android/build-cache/b05c09a74760801111cc7324a577649868581a0f/output/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/mobile/Desktop/kuaiche_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_14a298b5e0993d9eafce104721da84c694b7061b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobile/.android/build-cache/a083e360e7e75d4523f2d9ecce953fa6119f45cd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="/Users/mobile/Desktop/kuaiche_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_940bb56b1e8f168797beed960e43e9976c6b1d32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobile/.android/build-cache/83e609c554e604be1fe31dbb09b23adadf6722c5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2f7bd8cc7519d5231aa8d2ae8e905d3f602bd491">
+        <dex dex="/Users/mobile/Desktop/kuaiche_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fbeb6b31c6c7cd26d846eaa0132e0af2af444c62/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobile/.android/build-cache/f431c979b394ff9208de267876e9e6df0f231f36/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="/Users/mobile/Desktop/kuaiche_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_94c7ef4f6958b2914764530d899cedc4f82144a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobile/.android/build-cache/f1a97db0f41294a6bc75a164c82bda51c93fd5bd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c11cf7a7a6e5adf8fa564303a11dbc351fc11b7c">
+        <dex dex="/Users/mobile/Desktop/kuaiche_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_077c0f8df8367414a6de63a5db894540c5d2e262/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobile/.android/build-cache/60bc7147dfa1bea767f86c8cbb9d59c391727827/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c5bc0ebbe69c9fab587c2216b36ec44ab8f0704">
+        <dex dex="/Users/mobile/Desktop/kuaiche_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_82e9f0a48429f1dd287b0c06ca3d7eb627a8d5bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobile/.android/build-cache/c1ff8621b82fc8caba4c6fec81359116b3b60174/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="/Users/mobile/Desktop/kuaiche_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_544c850ec208620f332d108a1c8d809611c30dae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobile/.android/build-cache/193c4b6000f674e4d7b7ddf118c58aff180b3ac9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b8bedab61b3b5238cd9a07d3b04449d7fecdbc3b">
+        <dex dex="/Users/mobile/Desktop/kuaiche_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bfbfd1dcd158cc0a0ffedd8f7e1f6b1bcb823c26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobile/.android/build-cache/444dbaa9f663cababd68ea96a16d2c4580345f77/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4431efe5d0f67fab36a698dde725946b33a6bf4a">
+        <dex dex="/Users/mobile/Desktop/kuaiche_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a0240751d8ee14701b72c5738a5714c1a9fdf1e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobile/.android/build-cache/f90c91976d028df00602410e3fc48f97d14e16db/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="733964f04c339e425439545b1d172c23b53f8c13">
+        <dex dex="/Users/mobile/Desktop/kuaiche_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9a72b6f1cb738c5d8bcf9228e440f3215bedafc3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobile/.android/build-cache/2caf5bfdef15d8f213a2fe5d0450e29d5ee2c244/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="373cd65725af2781d100ddc193c7d3f14464a774">
+        <dex dex="/Users/mobile/Desktop/kuaiche_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_33d04668fd69a4cb21fe3f9bcae61cb28b525e00/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobile/.android/build-cache/7d471e37094bc446d0eea4fbe3d98bbb4f275d61/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/mobile/Desktop/kuaiche_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5ee9aec1b48bc3f2499e094e17b19934a6fa0696/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobile/.android/build-cache/6dd50362403cae7bcde5cd418b0f3c3681897056/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="/Users/mobile/Desktop/kuaiche_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1b06823fd5e42d5ce0e50207950401626a418102/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobile/.android/build-cache/bb6698c90c2e6fa02c6c55e9ecb138ebefd36ac9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/mobile/Desktop/kuaiche_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1f7f96f178f5e473c0b95d313bae4638be1c80cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobile/.android/build-cache/389f59fd2939fbc2ed318882b8900d36b1dae853/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f0f6913a208a126269aaa68004ed0329a832c5b">
+        <dex dex="/Users/mobile/Desktop/kuaiche_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_18e91ab5568e9147961ae25c5e3a65a53ae01c1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobile/.android/build-cache/1d58b3c935cb17b84baf567f8fd198c0cf352e72/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7002ed92a3c46c6a89a786877ecf7978a4f0459">
+        <dex dex="/Users/mobile/Desktop/kuaiche_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a57dbaade7d9626eaee2eb814ca0f16a221c8d71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobile/.android/build-cache/b305ef74b03193a1891c37d5d368274a6545dd86/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="294d49a66cc1238d9f7fd352136a45622fa98c0f">
+        <dex dex="/Users/mobile/Desktop/kuaiche_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_292110c513565aa2dec7d237faa46732a6a761ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobile/.android/build-cache/c486fe4a7570c4ada763a6dfd5f0babcef4134df/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8126914f5bc372a33e27ea90f02412c32468ce8a">
+        <dex dex="/Users/mobile/Desktop/kuaiche_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b080ae04e8b14259a9cf470b250a602faee8ca07/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobile/.android/build-cache/25597c58b5c2a268bd2826540bbd048490b4bbae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7da84426d876216ed4cdddd85e739be5ecabdd04">
+        <dex dex="/Users/mobile/Desktop/kuaiche_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6fcd123b3c0c575f010d43c0824facd368db3b58/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobile/.android/build-cache/7c9745178f3e3f56d357a45887787621b5c93bc8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="/Users/mobile/Desktop/kuaiche_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c90fc4d91546e4ad229882136b3166e317e66c70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobile/.android/build-cache/ad9f7d8a61e79b79e2014dca8b092dbeb30b20dc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d96f9f3ef66494d1231304cafd28c962dda80dea">
+        <dex dex="/Users/mobile/Desktop/kuaiche_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b3ffc0d5ee48a75985e4dec70198a239a0e8c255/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobile/.android/build-cache/09160aaa8cb15b5575981336ad581e4ffec0b731/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="32a5a566ae197603d0bed3e6d1d275f6a771564e">
+        <dex dex="/Users/mobile/Desktop/kuaiche_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_68378701f24c4860a59cbaf872b26110ccbaaff1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobile/Desktop/kuaiche_android/app/libs/android-async-http-1.4.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3bae85a076241828810bf8fbcc12e5891d5fc34c">
+        <dex dex="/Users/mobile/Desktop/kuaiche_android/app/build/intermediates/transforms/dex/debug/folders/1000/2/android-async-http-1.4.4_d6f5c5439873fcf21bb0305685e7cc2be065b2e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobile/.android/build-cache/025931660938ac6482517d88df2430e6d19555d7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f4e85eafa876cd7d7641244867dac3f88d71e866">
+        <dex dex="/Users/mobile/Desktop/kuaiche_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_64b6aba15406ce3a20531e6ecf04455d0031ffd4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobile/.android/build-cache/1bb1cd5ee71d0d461b77c672532d3702407c10da/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/mobile/Desktop/kuaiche_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_caba9b7e391ca71e134a774f90c3dcd9d111d520/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobile/.android/build-cache/248060dad2652ca9531940d484afdbe1f5451da5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="59cca9b91688dc2467754d36793b3d23bebd21a9">
+        <dex dex="/Users/mobile/Desktop/kuaiche_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cbc5b65cd32fb57af30a1689059c77d0ef64d871/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobile/.android/build-cache/96a52701a8df6cebc536a60812fa514236b0e2de/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="/Users/mobile/Desktop/kuaiche_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f11d2cec66446957a0f6ed84e94c11c80d3ea627/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobile/.android/build-cache/7c69d8cbb81072e113a350c57ae4c8b9cd42a487/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0facc6fc326f2406f4bb9b02f442994c5ce6a403">
+        <dex dex="/Users/mobile/Desktop/kuaiche_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_02ffc1f9dbbbf62276d930585435d379533d7388/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobile/.android/build-cache/799b3e023b16a298ea5a5245c7946a33969709db/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="/Users/mobile/Desktop/kuaiche_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6868c037f7d36ea57bed8d96a7cdad5fb06121d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobile/Desktop/kuaiche_android/app/libs/unirest-java-1.3.6-SNAPSHOT-withDependency-ShadedForAndroid.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="967614e77c60ff714c5921dc1f27bf98ec24e83f">
+        <dex dex="/Users/mobile/Desktop/kuaiche_android/app/build/intermediates/transforms/dex/debug/folders/1000/2/unirest-java-1.3.6-SNAPSHOT-withDependency-ShadedForAndroid_18659091f748bffb9e55c5d7383cd43f8229be5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobile/.android/build-cache/d0044e2037a36c2bf97415118dee362eeaea9cbb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e595f98f8c525201dccd119f43ad1ddacd4c48d6">
+        <dex dex="/Users/mobile/Desktop/kuaiche_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3e9285734d044a697be7250b64a77a2e2b30bbbd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobile/.android/build-cache/b690a81eaa974d09c6406b821e032484e8c94a10/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ebfde1a055aea400df77584a68aa60609f618bed">
+        <dex dex="/Users/mobile/Desktop/kuaiche_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b31c32d86f25d57d2f130e43f3c7a29941515d63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobile/.android/build-cache/66532984cac08e7688a6eab675601e12e4417b49/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e467a973b749c6390a5991c9a8edbde96fc10c9">
+        <dex dex="/Users/mobile/Desktop/kuaiche_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_211f0e8f1b3ac45d3c7184295b128bb804e29cb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobile/.android/build-cache/84c322dfc996b47d0a7be79a19e39da181c54f39/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="79e4b41db41d4dbbf364c7bd6aaeee5b876c9d8b">
+        <dex dex="/Users/mobile/Desktop/kuaiche_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a91e8e90c0a343a96cad2bb0b47a9e7dd9b8e5fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobile/.android/build-cache/f54f8d68e953f27f522d4c624cb3549e158802ae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4caf75b2cfb7ec6e80a57d0ee64fc102ad3578b8">
+        <dex dex="/Users/mobile/Desktop/kuaiche_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e1c22b1cab414ba6aeea04fc1b08b62069ebb22e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobile/.android/build-cache/86b527d768615bea1aa34d1f05acb3c65b87474e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67a7d712de3e7d025f4efdcec1da183f764bdbab">
+        <dex dex="/Users/mobile/Desktop/kuaiche_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_86ba9354f848a61c6357fa3c2482296ce9d464c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobile/.android/build-cache/b05c09a74760801111cc7324a577649868581a0f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/mobile/Desktop/kuaiche_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4ad6c99e40a137aa99813678eb56ec4c63a15f57/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobile/.android/build-cache/dfd7aed612c7f2c06fbbbbbc4384789d4adf46ab/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2cb29455028e92e024bbad0d41c6ec772f2433d1">
+        <dex dex="/Users/mobile/Desktop/kuaiche_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2614d32e7b10c442c91460c1238e49ca6d4420f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobile/.android/build-cache/4e9d6d3500e2de9486a9935731a0ba68ecbde8be/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/mobile/Desktop/kuaiche_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_79fb2de5dc5aa223e9638efea193d606c0bbf73f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobile/.android/build-cache/c797519df0d8199689cc50561186d3f97ec77583/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="005786793d72c6deacbbbfd38177ed58e1aa6653">
+        <dex dex="/Users/mobile/Desktop/kuaiche_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6028539fadc27ff6f728a8043e07b3d4a06d4b08/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobile/Desktop/kuaiche_android/app/libs/unirest-java-1.3.6-SNAPSHOT-withDependency-ShadedForAndroid.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="967614e77c60ff714c5921dc1f27bf98ec24e83f">
+        <dex dex="/Users/mobile/Desktop/kuaiche_android/app/build/intermediates/transforms/dex/debug/folders/1000/2/unirest-java-1.3.6-SNAPSHOT-withDependency-ShadedForAndroid_18659091f748bffb9e55c5d7383cd43f8229be5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobile/.android/build-cache/06f50f4eb1350343775ba338970fbe3a034ed5f3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="70ddab48594608953b20164b82f1f890a9a8174a">
+        <dex dex="/Users/mobile/Desktop/kuaiche_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_588570400339662cc876825a0ccd2e9bcb8e8792/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobile/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/mobile/Desktop/kuaiche_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_3bedf03a2f814f29507f952811be992de4621061/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobile/.android/build-cache/2f55bb66d05b1ef9793c180b36cf744ab2a8561e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="24536a7b97926a9c155c88425da6875adeb11b51">
+        <dex dex="/Users/mobile/Desktop/kuaiche_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8feb3dc3964eacf12d19390294e5aac0783b5f03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobile/.android/build-cache/028ad13b0928047ced7f7a17fb9bca3e0e332bcb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ed16ff19f0a9515604a0f08104ca0317b82e29e3">
+        <dex dex="/Users/mobile/Desktop/kuaiche_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_382c87f1244f0a9b222e9b77075d231739bb87ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobile/.android/build-cache/1d88be2f19e899bac31b47f59ba7e96a93d1a427/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7a23185c9b1c100e7d1a32275017e4712e31c796">
+        <dex dex="/Users/mobile/Desktop/kuaiche_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_db16beff3a56e9aeee44a832a7a3d340b99b0da6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobile/.android/build-cache/6a7b21f34d623580ea32e107dd028aa62f33f0f0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="817b9101192f2fd6dc0fd8cd522d8f4a1a75fcdc">
+        <dex dex="/Users/mobile/Desktop/kuaiche_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c73ffbb131c55fe994c57ce9cf6a43c7c0a3b77a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobile/Desktop/kuaiche_android/app/libs/android-async-http-1.4.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3bae85a076241828810bf8fbcc12e5891d5fc34c">
+        <dex dex="/Users/mobile/Desktop/kuaiche_android/app/build/intermediates/transforms/dex/debug/folders/1000/2/android-async-http-1.4.4_d6f5c5439873fcf21bb0305685e7cc2be065b2e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mobile/.android/build-cache/9496012128d251c638fe34b31ecbc3a14a343e86/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="/Users/mobile/Desktop/kuaiche_android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8b979fbb554c19e2c4b90f091c70b1b5707f61a1/classes.dex" />
+    </item>
+
+</items>

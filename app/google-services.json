@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "831506537390",
+    "firebase_url": "https://kuaiche-e4d7e.firebaseio.com",
+    "project_id": "kuaiche-e4d7e",
+    "storage_bucket": "kuaiche-e4d7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831506537390:android:190206aef3a20dba",
+        "android_client_info": {
+          "package_name": "ca.vanweb.admin.kuaiche"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831506537390-tl5p964v9milois51nnsb0mh9snovh2j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ca.vanweb.admin.kuaiche",
+            "certificate_hash": "1940561dde7f42cbe1432847f8efef64c9082645"
+          }
+        },
+        {
+          "client_id": "831506537390-74og6mq8cmoc7ngutg3jd6c9h75f39s2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1GSybxoRAQMBIhin36KnSx5BawX4Vn-M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831506537390-74og6mq8cmoc7ngutg3jd6c9h75f39s2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
