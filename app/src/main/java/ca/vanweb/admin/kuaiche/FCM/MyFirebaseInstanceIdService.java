@@ -10,7 +10,7 @@ import com.google.firebase.iid.FirebaseInstanceIdService;
 
 import ca.vanweb.admin.kuaiche.app.Config;
 
-import static com.google.android.gms.internal.zzs.TAG;
+//import static com.google.android.gms.internal.zzs.TAG;
 
 /**
  * Created by mobile on 2017-05-25.
@@ -19,10 +19,12 @@ import static com.google.android.gms.internal.zzs.TAG;
 public class MyFirebaseInstanceIdService  extends FirebaseInstanceIdService {
 
     private static final String REG_TOKEN = "REG_TOKEN";
+    private static final String TAG ="Token" ;
     private static String refreshedToken="";
     @Override
     public void onTokenRefresh() {
         super.onTokenRefresh();
+
         refreshedToken = FirebaseInstanceId.getInstance().getToken();
 
         // Saving reg id to shared preferences
